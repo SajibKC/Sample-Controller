@@ -1,0 +1,7 @@
+apiVersion: mycompany.com/v1
+kind: Sajib
+metadata:
+  name: new_sajib
+spec:
+  replicas: 2
+  image: nginx:latest
